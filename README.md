@@ -24,7 +24,7 @@
   - [Implementation of basic Multidimensional Data Structures, Approaching Computational Geometry problems](https://github.com/VARANE2003/Multidimensional-Data-Structures)
 
  
-- <b>Python & Data Alalytics</b>
+- <b>Python & Data Analytics</b>
   - [Python](https://github.com/VARANE2003/Python)
 
 
