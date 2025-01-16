@@ -45,6 +45,9 @@
  
 - <b>Signal Processing & Matlab</b>
   - [Understanding Signal Processing concepts through writing and executing Matlab scripts](https://github.com/VARANE2003/Signal-Processing-Matlab)
+ 
+- <b>Undergraduate Digital Telecommunications Project 2024-25</b>
+  - [Υλοποίηση PCM, DPCM, M-PAM](https://github.com/harryanst/Digital-Telecommunications-Project-24-25)
   
 - <b> BPM-Counter-Raspberry-Pi</b>
   - [Coming Soon...](https://github.com/VARANE2003/BPM-Counter-Raspberry-Pi)
