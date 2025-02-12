@@ -17,19 +17,20 @@
 - <b>Undergraduate Multidimensional Data Structures Project 2024-2025</b>
   - [Implementation of basic Multidimensional Data Structures, Approaching Computational Geometry problems](https://github.com/VARANE2003/Multidimensional-Data-Structures)
 
-- <b>Parallel Programming</b>
-  - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
-
 - <b>Learning Matlab for Scientific Computing</b>
   - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
 
- 
 - <b>Python & Data Analytics</b>
   - [Python](https://github.com/VARANE2003/Python)
 
 
+- <b>Parallel Programming</b>
+  - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
+
+  
 - <b>Building a RPN Calculator in JAVA</b>
   - [RPN Calculator](https://github.com/VARANE2003/RPN-Calculator)
+
 
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
