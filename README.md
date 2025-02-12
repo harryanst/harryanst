@@ -13,15 +13,15 @@
 
 - <b>Undergraduate Web Project 2024-25</b>
   - [Full-stack implementation of a thesis support system for universities](https://github.com/VARANE2003/Web-Project-2024)
+ 
+- <b>Undergraduate Multidimensional Data Structures Project 2024-2025</b>
+  - [Implementation of basic Multidimensional Data Structures, Approaching Computational Geometry problems](https://github.com/VARANE2003/Multidimensional-Data-Structures)
 
 - <b>Parallel Programming</b>
   - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
 
 - <b>Learning Matlab for Scientific Computing</b>
   - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
- 
-- <b>Multidimensional Data Structures Project 2024-2025</b>
-  - [Implementation of basic Multidimensional Data Structures, Approaching Computational Geometry problems](https://github.com/VARANE2003/Multidimensional-Data-Structures)
 
  
 - <b>Python & Data Analytics</b>
