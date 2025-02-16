@@ -57,10 +57,6 @@
    <br>Bill Gates quote: "Patience is a key element of success." 📈
 
 
-<h2>📺 Popular YouTube Videos</h2>
-- Listed as a future plan ✍🏻📝
-
-
 <h2> Connect with me:</h2>
 
 www.linkedin.com/in/harry-anastasiou
