@@ -60,12 +60,12 @@
 <h2>Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/harry-anastasiou">
-    <img src="linkedin_icon.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.svg" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <a href="https://www.instagram.com/harry_anst">
-    <img src="instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px;">
   </a>
   <a href="https://www.facebook.com/yourusername">
-    <img src="facebook_icon.png" alt="Facebook" style="width: 30px; height: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 30px; height: 30px;">
   </a>
 </p>
