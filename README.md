@@ -66,7 +66,6 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harryanst&show_icons=true&theme=dark" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryanst&theme=dark" width="48%" alt="GitHub Streak">
 </p>
 
 ---
