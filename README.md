@@ -80,7 +80,7 @@
    <br>Bill Gates quote: "Patience is a key element of success." 📈
 
 
-<h2>Connect with me:</h2>
+<h2>🤳🏽Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/harry-anastasiou">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;">
