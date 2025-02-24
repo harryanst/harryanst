@@ -57,6 +57,15 @@
    <br>Bill Gates quote: "Patience is a key element of success." 📈
 
 
-<h2> Connect with me:</h2>
-
-www.linkedin.com/in/harry-anastasiou
+<h2>Connect with me:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/harry-anastasiou">
+    <img src="linkedin_icon.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://www.instagram.com/harry_anst">
+    <img src="instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://www.facebook.com/yourusername">
+    <img src="facebook_icon.png" alt="Facebook" style="width: 30px; height: 30px;">
+  </a>
+</p>
