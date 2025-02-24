@@ -7,7 +7,7 @@
 - Web Development: HTML, CSS, PHP, MySQL
 - Tools & Platforms: Git, Linux, VS Code, OrCAD, ModelSim, MicroWind
 
-
+<br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
