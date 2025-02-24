@@ -41,6 +41,9 @@
 - <b>Verilog Programming</b>
   - [Learning to code in Verilog and SystemVerilog](https://github.com/VARANE2003/Verilog-Programming)
  
+- <b>Computer-aided Design</b>
+  - [Implementation of E-CAD projects](https://github.com/harryanst/E-CAD)
+ 
 - <b>Signal Processing & Matlab</b>
   - [Understanding Signal Processing concepts through writing and executing Matlab scripts](https://github.com/VARANE2003/Signal-Processing-Matlab)
  
