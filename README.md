@@ -1,11 +1,13 @@
 <h1>Hi, I'm Harry! </h1>
 
 
-<h2>Technologies & Skills</h2>
+<h2>🛠️ Technologies & Skills</h2>
 
 - Programming Languages: Python, C/C++, Java, JavaScript, Verilog/VHDL
 - Web Development: HTML, CSS, PHP, MySQL
 - Tools & Platforms: Git, Linux, VS Code, OrCAD, ModelSim, MicroWind
+
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -39,6 +41,7 @@
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
   
+
   
 <h2>🛠️Hardware & Signal Processing Projects:</h2>
 
@@ -71,7 +74,7 @@
 
 
  
- <h2>  Certifications</h2>
+ <h2>📜Certifications</h2>
 
  - On the pursuit of them.
    <br>Bill Gates quote: "Patience is a key element of success." 📈
