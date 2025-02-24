@@ -43,7 +43,7 @@
   
 
   
-<h2>🛠️Hardware & Signal Processing Projects:</h2>
+<h2>⚙️Hardware & Signal Processing Projects:</h2>
 
 - <b>Microwind Simulator</b>
   - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
