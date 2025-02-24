@@ -3,7 +3,7 @@
 
 <h2>🛠️ Technologies & Skills</h2>
 
-- Programming Languages: Python, C/C++, Java, JavaScript, PHP, MySQL, Verilog/VHDL, 
+- Programming Languages: Python, C/C++, Java, JavaScript, PHP, MySQL, Verilog/VHDL, Matlab
 - Web Development: HTML, CSS
 - Tools & Platforms: Git, Linux, VS Code, OrCAD, ModelSim, MicroWind
 
