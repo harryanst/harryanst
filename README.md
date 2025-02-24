@@ -53,6 +53,17 @@
 - <b> BPM-Counter-Raspberry-Pi</b>
   - [Coming Soon...](https://github.com/VARANE2003/BPM-Counter-Raspberry-Pi)
   
+
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+
+
+
+
+
  
  <h2>  Certifications</h2>
 
